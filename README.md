@@ -12,7 +12,7 @@ myblog-hexo-source
 ####如何发布文章
 * hexo new "my new post"
 * 在H:\hexo\source\_posts中打开这个文件（打开方式用“记事本”即可），配置开头。
-```html
+```bash
 title: my new post #可以改成中文的，如“新文章”
 date: 2013-05-29 07:56:29 #发表日期，一般不改动
 categories: blog #文章文类
