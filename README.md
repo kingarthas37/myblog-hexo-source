@@ -23,3 +23,14 @@ tags: [博客，文章] #文章标签，多于一项时用这种格式
 
 ####hexo&markdown语法
 * 增加readmore: <!-- more -->
+
+####demo
+```bash
+title: 浏览器的工作原理：新式网络浏览器幕后揭秘
+date: 2014-11-08 21:36:58
+categories: blog
+tags: [分享,前端]
+---
+转载：[浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+
+```
