@@ -20,3 +20,6 @@ tags: [博客，文章] #文章标签，多于一项时用这种格式
 ---
 #这里是正文，用markdown写，使用方法参照我原来的博客[Introduction to markdown](http://zipperary.com/2013/05/22/introduction-to-markdown/)
 ```
+
+####hexo&markdown语法
+* 增加readmore: <!-- more -->
